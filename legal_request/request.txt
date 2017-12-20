@@ -1,0 +1,26 @@
+
+
+Request 3e:
+
+e.	Add two tabs—one for cancer and another for non-cancer—in each file—one for incident patients with complete, 
+    364-day follow-up and the second for incident patients with fewer than 364 days of follow-up—listing 
+    the number of patients in each group—SEL30, SEM30, ME, and CU—that had an injury within 14 days 
+    prior to or on the day of the start of their OxyContin episode.  Define an injury as any patient 
+    with an ICD-9 diagnosis code in the following injury groups, according to the CDC 
+    (see the attached CDC primary and secondary ICD-9 groupings):  800-904, or 920-929, or 950-959.  
+    For Multiple Episode Users, include them in the counts if they had an injury before their first episode.
+i.	Do the same for surgery instead of injury—however you define surgery.
+ii.	Do the same for ‘injury or surgery’—that is, whether the patient had either an injury or 
+    a surgery within 14 days of the start of his or her episode.
+iii.	Do the same for acute pain, where acute pain is defined as the patient having
+      an ICD-9 code that your team associated in the “ICD Validation_Draft.xlsx” file with 
+      (1) an “ACUTE or CHRONIC (if indicated)” column value of blank (i.e., not “Chronic”) and 
+      (2) a GROUP value that is not blank.
+iv.	Do the same for chronic pain, where chronic pain is defined as the patient having 
+    an ICD-9 code that your team associated in the “ICD Validation_Draft.xlsx” file 
+    with an “ACUTE or CHRONIC (if indicated)” column value of “Chronic.”  
+v.	Do the same for each of the 19 CDC primary ICD-9 code groupings in the attached.  
+    That is, for each patient group and CDC primary code grouping, have a row indicating 
+    the number of patients in that patient group that had an ICD-9 diagnosis code 
+    in that CDC primary code grouping.  Patients with a diagnosis in more than one primary 
+    code grouping will be counted in more than one row.
